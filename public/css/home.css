@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 3rem;
+    line-height: 15rem;
+    text-shadow: 
+    0px 0px 20px rgb(17, 17, 17),
+    0px 0px 40px rgb(17, 17, 17),
+    0px 0px 55px rgb(17, 17, 17),
+    0px 0px 75px rgb(17, 17, 17);
+}

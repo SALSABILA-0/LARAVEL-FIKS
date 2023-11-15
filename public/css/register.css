@@ -1,0 +1,9 @@
+body{
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #a04e4e77;
+}
+.register{
+    width: 50%;
+}
